@@ -19,4 +19,4 @@ You should be familiar with these concepts and what they mean in context with a 
 |    Nuke    |                                      Slang we use when a box is FUBAR                                      |                  Destroyed section of the castle wall                 |
 
 ## Gameplay Guide
-TODO :D
+In this game, you try to use a wall of fire (that is, a firewall) to keep Tristan away from yourself. Be careful though, he is quite sneaky, and his extreme darkness and disagreeable level of dampness (that is, dankness) causes him to easily extinguish small fires.
